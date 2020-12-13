@@ -1,0 +1,36 @@
+Seu trabalho como Data Scientist é responder as seguinte perguntas:
+
+ Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
+Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
+A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
+
+Roteiro Sugerido para a Resolução.
+Esse é o roteiro de resolução do desafio que eu sugiro:
+
+1. Identifique a causa raíz.
+Porque o CEO fez essas perguntas? Se você fosse ele, porque você perguntaria isso? Quer aumentar receita? A empresa está indo bem?
+Anote essas causas.
+
+2. Colete os dados (https://www.kaggle.com/harlfoxem/housesalesprediction/data)
+
+3. Aplique uma limpeza nos dados.
+Entenda as variáveis disponíveis, possíveis valores faltantes, faça uma estatística descritiva para entender as características dos dados.
+
+4. Levante Hipóteses sobre o Comportamento do Negócio.
+Casas com garagens são mais caras? Porque?
+Casas com muitos quartos são mais caras? Porque? A partir de quantos quartos o preço aumenta? Qual o incremento de preço por cada quarto adicionado?
+As casas mais caras estão no centro? Qual a região? Existe alguma coisa na região que tem correlação com valor de venda da casa? Shoppings? Montanhas? Pessoas Famosas?
+
+5. Faça uma ótima Análise Exploratória de Dados.
+Quais hipóteses são falsas e quais são verdadeiras?
+Quais as correlações entre as variáveis e a variável resposta?
+
+6. Escreve os Insights que você encontro.
+
+7. Escreve possíveis soluções para o problema do CEO.
+
+
+
+Quando você conseguir solucionar esse desafio, escreva um artigo, explicando toda sua linha de raciocínio, o contexto do problema, todas as considerações assumidas, as hipóteses validadas e as rejeitadas e as suas sugestões para solucionar o problema da House Rocket Company.
+
+Se quiser publicar aqui no blog, me manda um msg no LinkedIn (@meigarom ) ou no Instagram ( @meigarom.datascience ). Publicarei seu trabalho com o maior prazer do mundo.
