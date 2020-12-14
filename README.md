@@ -1,2 +1,7 @@
-# rocket_house
-This repository is a project of machine learning to predict prices from different houses, serving as a studying project.
+# Predicting House Prices for Rocket House
+
+This repository is a project of machine learning to predict the price from different house, serving as a studying project.
+
+The problem, method and solution were proposed by Meigarom Lopes, in his blog: "Seja um Data Scientist" - https://sejaumdatascientist.com/.
+
+The data used is available at Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction.
